@@ -7,3 +7,19 @@ All .STL files are downloadable in the folder: Guided_Syringe_Prototype_04.zip
 The video linked below includes step-by-step tutorials for constructing each part of the device, assembling the full system, and simulating the motion and stress analysis results.
 
 Watch the Build and Simulation Video https://www.youtube.com/watch?v=0nuLlYW7PKY
+
+Chapters:
+
+0:00 – Base Plate Construction
+
+5:45 – Rotator Track Construction
+
+17:37 – Sliding Track Rotator Construction
+
+29:22 – Syringe Clip Construction
+
+34:39 – Assembly Tutorial
+
+50:25 – Physics Simulations
+
+50:44 – Motion Simulations
