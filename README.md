@@ -3,6 +3,7 @@ This repository documents the latest development stage of a low-cost, open-sourc
 
 The final prototype offers three degrees of control—slice, tilt, and depth—via a spherical-coordinate-inspired structure. Each axis is mechanically restricted to improve targeting consistency and reduce user error. A custom-molded silicone base provides anatomical conformity, while integrated levels ensure proper alignment with the patient’s skin.
 
+All .STL files are downloadable in the folder: Guided_Syringe_Prototype_04.zip
 The video linked below includes step-by-step tutorials for constructing each part of the device, assembling the full system, and simulating the motion and stress analysis results.
 
 Watch the Build and Simulation Video https://www.youtube.com/watch?v=0nuLlYW7PKY
